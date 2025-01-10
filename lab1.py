@@ -11,3 +11,7 @@ d = 4
 
 e = (a * c ) - (b/d)
 print(e)
+
+temperature = 32.6
+
+print(format(temperature, ".3f"))
