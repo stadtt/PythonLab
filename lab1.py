@@ -3,6 +3,8 @@
 #Shaffaq Hai
 
 array = [1,4,7,9]
-array.sort()
-array.sort(reverse=True)
-array.sort(reverse=True)
+
+a = 1
+b = 2
+c = 3
+d = 4
