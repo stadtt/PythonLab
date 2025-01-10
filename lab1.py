@@ -4,3 +4,4 @@
 
 array = [1,4,7,9]
 array.sort()
+array.sort(reverse=True)
